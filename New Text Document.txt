@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-this is wrong text
 =======
 Hi I am ravi kumar pandey
 >>>>>>> Stashed changes
