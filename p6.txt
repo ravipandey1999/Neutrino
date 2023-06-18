@@ -1,0 +1,12 @@
+let num = prompt('Enter 1st number: ');
+for(var i=1;i<=num;i++){
+    var pr=0;
+    if(i%2==0){
+        pr=Math.pow(i,2)-2;
+          console.log(pr)
+    }else{
+        pr=Math.pow(i,2)-1; 
+        console.log(pr)
+    }
+    
+}

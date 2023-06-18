@@ -1,0 +1,41 @@
+let year = 12;
+let num = prompt('Enter 1st number: ');
+   if(num==1){
+        console.log("jan")
+            }
+    else if(num==2){
+        console.log("feb")
+    }else if(num==3){
+        console.log("march")
+    }
+    else if(num==4){
+        console.log("april")
+    }
+    else if(num==5){
+        console.log("may")
+    }
+    else if(num==6){
+        console.log("jun")
+    }
+    else if(num==7){
+        console.log("july")
+    }
+    else if(num==8){
+        console.log("august")
+    }
+    else if(num==9){
+        console.log("sep")
+    }
+    else if(num==10){
+        console.log("oct")
+    }
+    else if(num==11){
+        console.log("nov")
+    }
+    else if(num==12){
+        console.log("dec")
+    }
+    else{
+        console.log("please enter valid month")
+    }
+    

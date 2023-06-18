@@ -1,0 +1,3 @@
+let num = prompt('Enter 1st number: ');
+let m=Math.pow(2,num)
+console.log(m)

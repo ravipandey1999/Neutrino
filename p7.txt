@@ -1,0 +1,4 @@
+let a = prompt('Enter 1st number: ');
+let weekly =a*7;
+let sunday=weekly-100;
+console.log(sunday);
