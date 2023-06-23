@@ -1,0 +1,24 @@
+.ravi{
+    background-color: #000;
+    height:500px;
+    width:700px;
+    margin:auto;
+    padding:20px;
+    opacity: 0.6;
+}
+.body{
+    background-attachment: fixed;
+    background-image: url(../../night-flight-2307018_1280.jpg);
+    height: inherit;
+}
+
+#aboutu{
+    color: antiquewhite;
+}
+
+#para{
+    color: antiquewhite;
+}
+.img{
+    opacity: 10; 
+}
